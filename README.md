@@ -15,6 +15,6 @@ The dataset used for analysis is taken from [U.S. Department of Agriculture](htt
 [USDA Agricultural Research Service](USa.philips.com/c-m-pe/face-stylers-and-grooming-kits/multigroomers/latest#filters=MULTIGROOMERS_SU) Taken SR24, SR25, SR26, SR27, SR28.
 ### Python Notebooks
 [Technical Notebook](https://github.com/ashuthoshc/Clustering_Milk/blob/main/NoteBooks/Clustering_technicalNotebook.ipynb)  
-[Exploratory Data Analysis]()  
+[Exploratory Data Analysis](https://github.com/ashuthoshc/Clustering_Milk/blob/main/NoteBooks/Clustering_EDA.ipynb)  
 ### Data Folder
 [Data Folder](https://github.com/ashuthoshc/Clustering_Milk/tree/main/SR23)  
